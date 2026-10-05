@@ -1,0 +1,8 @@
+Add two integers: 15
+Add three integers: 40
+Add two doubles: 16.0
+Name: Unknown, Age: 0
+Name: Nitin , Age: 22
+Name: Nitin , Age: 22
+Student s$ details (refrance to s2): 
+Name: Nitin , Age: 22

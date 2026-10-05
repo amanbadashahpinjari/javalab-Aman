@@ -1,0 +1,8 @@
+Arithmetic Promotion Result: 78
+x + y =13
+x - y =7
+x * y =30
+x / y =3
+x % y =1
+Addition:154
+Multiplication: 5166
