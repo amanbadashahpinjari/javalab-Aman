@@ -1,0 +1,13 @@
+=============Practical 04 output==========
+
+
+Enter Product ID: 1234
+Enter Product Name: abcd
+Enter Product Price: 300
+Enter Warranty (in years): 2
+
+--- Product Details ---
+Product ID: 1234
+Product Name: abcd
+Product Price: 300.0
+Warranty: 2 years
